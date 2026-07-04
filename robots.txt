@@ -1,3 +1,10 @@
 User-agent: *
 Allow: /
-Sitemap: https://tidalhss-star.github.io/bp-t3b03-sa-franchise-tip//sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://sangam-startup-guide.pbn-builder.xyz/sitemap.xml
